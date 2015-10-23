@@ -1,6 +1,6 @@
 <?php
 // YAHOO! API情報
-define("YAHOO_APPID", "dj0zaiZpPWlKOGNZbXRMb2N4dCZzPWNvbnN1bWVyc2VjcmV0Jng9M2Q-");
+define("YAHOO_APPID", "-");
 define("YAHOO_ITEM_SEARCH_API", "http://shopping.yahooapis.jp/ShoppingWebService/V1/json/itemSearch");
 
 function get_yahoo_items($keyword) {
